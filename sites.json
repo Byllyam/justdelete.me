@@ -4792,6 +4792,16 @@
             "strava.com"
         ]
     },
+    
+        {
+        "name": "Sunrise",
+        "url": "http://support.sunrise.am/article/80-deleting-your-sunrise-account",
+        "difficulty": "easy",
+        "notes": "Deleting your Sunrise account won't delete any data from third party calendars such as Google Cal, Outlook, etc. Still, I recommend disconnecting those accounts from Sunrise first. According to their blog, due to their acquisition by Microsoft, Sunrise will stop supporting the Sunrise app for all platforms on August 31st, 2016 and will eventually migrate all features to the Outlook app.",
+        domains": [
+            "sunrise.am"
+        ]
+    },
 
     {
         "name": "StumbleUpon",
